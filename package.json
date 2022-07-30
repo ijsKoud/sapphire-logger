@@ -50,7 +50,7 @@
 	"packageManager": "yarn@3.2.2",
 	"dependencies": {
 		"colorette": "^2.0.19",
-		"discord.js": "^13.9.1",
+		"discord.js": "^14.1.2",
 		"tslib": "^2.4.0"
 	}
 }
